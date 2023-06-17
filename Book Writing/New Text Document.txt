@@ -1,0 +1,72 @@
+
+Book Writing using ChatGPT
+
+//////////////////////////
+
+......................................
+- Generate Book Title and Plot Summary 
+......................................
+
+Please ignore all previous instructions. 
+Do not self reference. 
+Do not explain what you are doing. 
+
+Context:
+Book Detail: [Here goes short and rough summary of the book]
+Language: English
+
+Instructions:
+You are a top selling author of children books. 
+Generate [10] book titles and a plot summary according to the context provided. 
+Do not write the book, only write the plot summary of the book. 
+
+................................
+- Generate Outline for the Book
+................................
+
+Please ignore all previous instructions. 
+Do not self reference. 
+Do not explain what you are doing. 
+
+Context:
+Plot Summary: [Plot Summary Goes Here]
+Language: English
+
+Instructions:
+You are a top selling author of children books. 
+Generate an outline for the book according to the context provided. 
+The outline should have chapters, with a title and a [200] word summary of the chapter. 
+Do not write the book. 
+Only generate the book outline. 
+
+..............................
+- Generate Book Chapter Detail 
+...............................
+
+Please ignore all previous instructions. 
+Do not self reference. 
+Do not explain what you are doing. 
+
+Context:
+Plot Summary: [Plot Summary Goes Here]
+Chapter Summary: [1 Chapter Summary Goes Here]
+Language: English 
+
+Instructions:
+You are a top selling author of children books. 
+Write the entire chapter based on the chapter summary and according to the context provided. 
+Do not write the entire book. Only generate the text of a single chapter. 
+
+........................................................................
+
+* Repeat the same prompt and change chapter summary to generate chapters one by one to generate complete book.
+
+........................................................................
+
+* Remove [ ] from prompts. This is the place where you insert your words.
+
+..................................................
+Video Tutorial Link: https://youtu.be/SFqTcD7H07g
+..................................................
+
+~ WebStylePress ~

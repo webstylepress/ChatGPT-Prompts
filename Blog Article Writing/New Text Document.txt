@@ -1,0 +1,254 @@
+
+Chatgpt Blog Article Writing Guide 
+
+//////////////////////////////////
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+..........................
+- Generate Blog Post Title
+..........................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of Voice: Professional
+Writing Style: Academic
+Language: English
+Characters Limit: 60
+Topic: [javascript]
+
+Instructions:
+You are an expert copywriter who writes catchy titles for blog posts. 
+According to the requirements provided, write 10 catchy blog post titles with a hook for the topic. 
+The titles should include the words from the topic.
+
+..........................................................
+- Generate Blog Post Description by using One of the Title
+..........................................................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of Voice: Professional
+Writing Style: Academic
+Language: English
+Characters limit: 160
+Blog Post Title: [Blog Post Title Goes Here]
+
+Instructions:
+You are an expert copywriter who writes catchy descriptions for blog posts. 
+According to the requirements provided, write 2 catchy blog post descriptions with a hook for the blog post title. 
+The descriptions should include the words from the blog post title.
+
+............................
+- Generate Blog Post Outline
+............................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of Voice: Professional
+Writing Style: Academic
+Language: English
+Blog Post title: [Blog Post Title Goes Here]
+
+Instructions:
+You are an expert copywriter who creates content outlines. 
+According to the requirements provided, Create a long form content outline for the blog post title. 
+The content outline should include a minimum of [5] headings and subheadings. 
+The outline should be extensive and it should cover the entire topic. 
+Create detailed subheadings that are engaging and catchy. 
+Do not write the blog post, only write the outline of the blog post. 
+Do not number the headings. 
+Add a newline space between headings and subheadings. 
+
+..........................................
+- Generate Complete Blog Post from Outline
+..........................................
+
+Ignore all previous instructions but remember blog post outline above. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of Voice: Professional
+Writing Style: Academic
+Language: English
+
+Instructions:
+You are an expert copywriter who writes detailed and thoughtful blog articles. 
+Use above blog post outline for an article, 
+according to requirements, 
+expand on each of the subheadings to create a complete article from it. 
+Use short and long sentences. 
+Utilize uncommon terminology to enhance the originality of the content. 
+Use professional format for the content. 
+Use appropriate font size for headings and sub headings.
+
+....................................................................
+- Generate Complete Blog Post from a Given Topic using Single Prompt
+....................................................................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+Topic: [javascript as frontend and backend programming language]
+
+Instructions:
+You are an expert copywriter who writes detailed and thoughtful blog articles. 
+According to the requirements, 
+use topic for an article to generate a blog post description limited to 160 characters.
+Then use topic for an article and create an outline for the topic with a minimum of [5] headings and subheadings. 
+Then expand on each of the individual subheadings in the outline to create a complete article from it. 
+Use short and long sentences. 
+Utilize uncommon terminology to enhance the originality of the content. 
+Arrange the content in a professional format. 
+Generate the outline and then immediately start writing the complete article. 
+
+...........................................................
+There are certain copywriting frameworks used by marketers. 
+You can use these frameworks to generate blog post introduction in a certain way.
+
+Those frameworks are:
+
+- AIDA (Attention Interest Desire Action)
+- PAS (Problem Agitate Solution)
+- BAB (Before After Bridge)
+- FAB (Features Advantages Benefits)
+
+.....................................................................
+- Generate Blog Post Introduction using Copywriting Frameworks (AIDA)
+.....................................................................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+Topic: [javascript as best programming language]
+Keywords: [web development, software engineering, programming]
+
+You are an expert copywriter who writes detailed and compelling blog articles. 
+I want you to write a compelling blog introduction paragraph of around 200 words on given topic according to above requirements. 
+Use the AIDA (Attention, Interest, Desire, Action) copywriting framework to hook and grab the attention of the blog readers. 
+Use short and long sentences. 
+Utilize uncommon terminology to enhance the originality of the content. 
+Arrange the content in a professional format. 
+Use provided keywords into the text wherever appropriate. 
+Highlight these keywords in bold in the text using markdown if you have them in the text. 
+
+.......................................................
+- Generate an Effective Paragraph of Text using ChatGPT
+.......................................................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+Topic: [WordPress as a content management system]
+Keywords: [cms, content management system, themes, plugins]
+
+Instructions:
+You are an expert copywriter who writes detailed and thoughtful blog articles. 
+According to the requirement, write around [200] words on given topic.
+Use short and long sentences. 
+Utilize uncommon terminology to enhance the originality of the content. 
+Arrange the content in a professional format. 
+Use provided keywords in paragraph.
+Highlight these keywords in bold in the text using markdown.
+
+...................................................................
+
+- Voice Tones:
+
+Default
+Authoritative
+Caring
+Casual
+Cheerful
+Conservative
+Conversational
+Creative
+Dry
+Edge
+Enthusiastic
+Expository
+Formal
+Frank
+Friendly
+Funny
+Informative
+Journalistic
+Matter of Fact
+Objective
+Passionate
+Poetic
+Professional
+Respectful
+Sarcastic
+Serious
+Smart
+Subjective
+Sympahetic
+Trendy
+Trustworthy
+Witty 
+
+- Writing Styles:
+
+Academic
+Analytical
+Argumentative
+Conversational
+Creative
+Critical
+Descriptive
+Informative
+Instructive
+Journalistic
+Metaphorical
+Narrative
+Persuasive
+Poetic
+Technical
+
+It depends on topic of your article and requirement.
+
+.......................................................................
+
+* Remove [ ] from prompts. This is the place where you insert your words.
+
+.................................................
+Video Tutorial Link: https://youtu.be/UcP9bdknlUw
+.................................................
+
+~ WebStylePress ~

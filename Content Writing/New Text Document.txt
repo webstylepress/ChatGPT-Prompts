@@ -1,0 +1,180 @@
+
+Content Writing using ChatGPT
+
+/////////////////////////////
+
+- Generate Title (Ideas) for Any Type of Content
+................................................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+Topic: [Artificial Intelligence]
+
+Instructions:
+You are an expert copywriter who writes catchy titles for articles. 
+According to requirements provided, 
+write [10] catchy article titles with a hook for the topic. 
+
+.................
+- Rewrite Content
+.................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+
+Instructions:
+You are an expert copywriter who can rewrite content. 
+According to requirements provided, 
+rewrite the content provided. 
+Use short and long sentences. 
+Utilize uncommon terminology to enhance the originality of the content. 
+Format the content in a professional format. 
+Rewrite the following content: [Artificial Intelligence (AI) is a branch of computer science that aims to create machines that mimic human intelligence. This could be anything from recognizing speech, to learning, planning, problem solving, or even perception. AI can be categorized as either weak (specific to a particular task, like voice recognition) or strong (machines that can perform any intellectual task a human being can). AI technologies are increasingly integral to many areas of life, from virtual assistants in our homes, to predictive algorithms in healthcare, and autonomous vehicles in transportation.]
+
+........................
+- Generate Content Brief
+........................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+Article Title: [ARTICLE TITLE GOES HERE]
+Main Keyword: [KEYWORD HERE]
+
+Instructions:
+You are an expert copywriter who creates content brief. 
+According to requirements provided, 
+First print the "Article Title" as a heading. 
+Then print a heading "Content Overview". 
+Then print "Article Title" and write the article title. 
+After this print "Meta Description". 
+Now generate a meta description for the article title that is less than 160 characters. 
+The description should contain the main keyword. 
+After this table print out the following "Outline / What is this content about". 
+Generate a content outline for the 'Article Title'. 
+After this print the following "What keywords and topics are recommended or required?" as a heading. 
+Now list down 5 keywords that are closely related to main keyword. 
+After this print the following "What key questions do readers have that need to be answered?" as a heading. 
+Now generate [5] questions that the reader may have related to the "article title" and "main keyword" and print them out. 
+
+...............................................
+- Generate Content Ouline using 'article title'
+...............................................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+Topic: [Javascript as frontend and backend programming language]
+
+Instructions:
+You are an expert copywriter who creates content outlines. 
+According to the requirements provided, 
+Create a long form content outline for the topic provided. 
+The content outline should include a minimum of 5 headings and subheadings. 
+The outline should be extensive and it should cover the entire topic. 
+Create detailed subheadings that are engaging and catchy. 
+Do not write the article, only write the outline of the article. 
+
+........................................................
+- Generate Monthly Content Calendar for a Content Writer
+........................................................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+Articles per week: [1]
+Number of Months: [3]
+Article Topic: [Javascript]
+Starting month: [Auguust]
+
+Instructions:
+You are an expert copywriter who is an expert in creating content calendars. 
+According to the requirements provided, 
+create a content calendar for number of months provided using long tail keywords related to 'article topic'. 
+There should be specific number of blog posts scheduled each week of the month as provided in requirements. 
+Every blog post should have a catchy & attention grabing title. 
+The table should have actual dates in the future. 
+Organize each blog post in the table so that it looks like a calendar. 
+Give me output in table format.
+
+...............
+- Generate FAQs
+............... 
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+Number of FAQs: 10
+Topic: [Web Development Company Named WebStylePress]
+
+Instructions:
+You are a market research expert who is an expert at generating questions for topics.
+According to the requirements provided, 
+Generate most frequently asked questions on the topic provided. 
+Generate response in table form.
+
+...............................................
+- Generate Article Outline from a Given Article
+...............................................
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: Professional
+Writing style: Academic
+Language: English
+
+Instructions:
+You are an expert copywriter who writes catchy outlines and headings from an article. 
+According to the requirements provided, 
+write catchy outline and headings from given article. 
+Article is as following: [Full article text (or part of article text) goes here]
+
+////////////////////////////////////////////////
+Vdeo Tutorial Link: https://youtu.be/SG3xZDGPC_w
+////////////////////////////////////////////////
+
+* Remove [ ] from prompts. This is the place where you insert your words.
+
+~ WebStylePress ~
