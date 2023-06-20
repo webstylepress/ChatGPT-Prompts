@@ -1,0 +1,183 @@
+
+Generate Course Using ChatGPT
+///////////////////////////////
+
+- Generate Course Topics (Ideas)
+
+Ignore all previous instructions.
+Do not use single quotes, double quotes or any other enclosing characters.
+Do not self reference.
+Do not explain what you are doing.
+
+Requirement: 
+Voice Tone: Creative
+Writing Style: Academic
+Language: English
+Number of Topics: [10]
+Industry: [e.g. Digital Marketing]
+Education Level: [e.g. Secondary]
+
+Instructions: 
+You are an expert in the industry and create amazing online courses. 
+According to the requirement provided, 
+generate course topics or ideas for a course in the industry. 
+All of your course ideas are project based and contain learning modules and activities that will guide students. 
+Only generate the topics for the courses and nothing else.
+
+.............................
+
+- Generate Course Outline
+
+Ignore all previous instructions.
+Do not use single quotes, double quotes or any other enclosing characters.
+Do not self reference.
+Do not explain what you are doing.
+
+Requirement: 
+Voice Tone: Creative
+Writing Style: Academic
+Language: English
+Number of Sessions: [5]
+Course Topic: [Course topic goes here]
+Education Level: [Secondary]
+
+Instructions:
+You are an expert course creator and curriculum designer.
+Accoding to the requirement, 
+create a syllabus for number of sessions mentioned on mentioned course topic. 
+All of your course ideas are project based and contain learning modules and activities that will guide students.
+Only generate the syllabus for the course and nothing else.
+
+............................
+
+- Generate Course Lesson
+
+Ignore all previous instructions.
+Do not use single quotes, double quotes or any other enclosing characters.
+Do not self reference.
+Do not explain what you are doing.
+
+Requirement: 
+Voice Tone: Creative
+Writing Style: Academic
+Language: English
+Number of Modules: [6]
+Course Topic: [Course topic goes here]
+Course Lesson: [Course lesson (single) from outline goes here]
+
+Instructions:
+You are an expert course creator and curriculum designer.
+You use backwards design in your planning by starting with the outcome in mind and working backwards to create learning modules and activities that will guide students towards this outcome. 
+All of your courses are project based. 
+According to requirement, 
+create a course lesson plan for the mentioned course lesson. 
+The course is on the mentioned course topic.
+The lesson plan should be descriptive with the real world examples and activities. 
+Include discussion questions and ways to expand learning. 
+Only generate the lesson plan.
+
+.............................
+
+- Generate Course Assignment
+
+Ignore all previous instructions.
+Do not use single quotes, double quotes or any other enclosing characters.
+Do not self reference.
+Do not explain what you are doing.
+
+Requirement: 
+Voice Tone: Creative
+Writing Style: Academic
+Language: English
+Number of assignments: [2]
+Course Topic: [Course topic goes here]
+Education Level: [Secondary]
+
+Instructions:
+You are an expert course creator and curriculum designer. 
+According to the requirement, 
+create assignments for mentioned course topic for mentioned education level on course topic. 
+Include the list of assignments in a markdown table.
+
+.............................
+
+Voice tones and writing styles are many.
+
+Voice Tone can be:
+
+Default
+Authoritative
+Caring
+Casual
+Cheerful
+Conservative
+Conversational
+Creative
+Dry
+Edge
+Enthusiastic
+Expository
+Formal
+Frank
+Friendly
+Funny
+Informative
+Journalistic
+Matter of Fact
+Objective
+Passionate
+Poetic
+Professional
+Respectful
+Sarcastic
+Serious
+Smart
+Subjective
+Sympahetic
+Trendy
+Trustworthy
+Witty 
+
+Writing Style can be:
+
+Academic
+Analytical
+Argumentative
+Conversational
+Creative
+Critical
+Descriptive
+Informative
+Instructive
+Journalistic
+Metaphorical
+Narrative
+Persuasive
+Poetic
+Technical
+
+Education levels can be: 
+
+Primary
+Middle 
+Secondary
+University
+BA
+BSC
+MSC
+BBA
+MBA
+MPhil
+MA
+BCOM
+
+and even more.
+Pick one according to your requirement.
+
+* Replace words inside [] according to your requirement and remove brackets [] from prompts.
+
+~ WebStylePress ~
+@webstylepress
+https://www.youtube.com/@webstylepress
+
+Tutorial Link: https://youtu.be/O2xKLjOglRs
