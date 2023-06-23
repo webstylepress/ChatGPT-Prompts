@@ -1,0 +1,174 @@
+
+How to Generate Landing Page using ChatGPT | Landing Page Content Creation Guide
+
+////////////////////////////
+
+- Generic Landing Page Generation
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: [Professional]
+Writing style: [Creative]
+Language: English
+Landing Page Topic: [Best Web Development Services]
+Keywords: [web development, ecommerce, content management system]
+
+Instructions:
+You are an expert landing page creator. 
+According to the mentioned requirements, 
+create a landing page structure with [5] attention grabbing headline about the mentoned landing page topic. 
+Include mentioned keywords. 
+Mention pain points to grab the attention of the visitor. 
+Use the pain points mentioned to increase the click through rate for purchases and opt-ins. 
+Display the structure of the Landing page and include a title tag (between 50-60 characters) and meta description (between 120-140 characters). 
+The landing page should have the flow of a story.
+
+..............
+
+- Landing Page Generation for Ecommerce Website
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: [Professional]
+Writing style: [Creative]
+Language: English
+Product/Service: [Nike Shoes]
+Keywords: [web development, ecommerce, content management system]
+
+Instructions:
+You are an expert landing page creator for ecommerce websites. 
+According to the instructions, 
+create an ecommerce focused landing page structure with [5] attention grabbing headline for the mentioned product/service. 
+Mention the unique selection of products with unique descriptions. 
+Direct users to the buy now CTA for the products/services mentioned. 
+Include mentioned keywords. 
+Display the structure of the landing page and include a title tag (between 50-60 characters) and meta description (between 120-140 characters). 
+The landing page should have the flow of a story.
+
+.................
+
+- Landing Page Creation for Affiliates
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: [Professional]
+Writing style: [Creative]
+Language: English
+Product/Service: [Website SEO Tool]
+Keywords: [seo, website seo, search engine optimization]
+
+Instructions:
+You are an expert landing page creator for affiliate websites. 
+According to the mentioned requirements, 
+create an affiliate marketing focused landing page structure with [5] attention grabbing headline for the Product/Service mentioned in requirements. 
+Include mentioned keywords. 
+Include persuasive CTA's to sample affiliate links. 
+Display the structure of the landing page and include a title tag (between 50-60 characters) and meta description (between 120-140 characters). 
+The landing page should have the flow of a story.
+
+................
+
+- Landing Page Generation for SaaS Tool
+
+Ignore all previous instructions. 
+Do not use single quotes, double quotes or any other enclosing characters. 
+Do not self reference. 
+Do not explain what you are doing.
+
+Requirements:
+Tone of voice: [Professional]
+Writing style: [Creative]
+Language: English
+Saas Tool: [MarketMaven (Amazon Product Research Tool)]
+Keywords: [amazon product research tool, product research, ecommerce, product hunt]
+Competitors: [Jungle Scout, Helium 10]
+
+Instructions:
+You are an expert landing page creator for SaaS tools.
+According to the mentioned requirement, 
+create a SaaS focused landing page structure with [5] attention grabbing headline for mentioned Saas Tool. 
+Include mentioned keywords. 
+Focus on the top features and benefits of the software. 
+Include a sample comparison table of the SaaS tool comparing it to competitors. 
+Display the structure of the landing page and include a title tag (between 50-60 characters) and meta description (between 120-140 characters). 
+The landing page should have the flow of a story.
+
+................
+
+- Voice Tones:
+
+Default
+Authoritative
+Caring
+Casual
+Cheerful
+Conservative
+Conversational
+Creative
+Dry
+Edge
+Enthusiastic
+Expository
+Formal
+Frank
+Friendly
+Funny
+Informative
+Journalistic
+Matter of Fact
+Objective
+Passionate
+Poetic
+Professional
+Respectful
+Sarcastic
+Serious
+Smart
+Subjective
+Sympahetic
+Trendy
+Trustworthy
+Witty 
+
+- Writing Styles:
+
+Academic
+Analytical
+Argumentative
+Conversational
+Creative
+Critical
+Descriptive
+Informative
+Instructive
+Journalistic
+Metaphorical
+Narrative
+Persuasive
+Poetic
+Technical
+
+................
+
+* Change text inside [] according to your need and reove brackets [] from prompts before using with chatgpt.
+
+................
+
+Tutorial Link: https://youtu.be/0pG5PIFF27w
+
+WebStylePress
+https://www.youtube.com/@webstylepress/videos
+
+Thank You
