@@ -1,0 +1,95 @@
+
+Generate Sales Letter for Business using ChatGPT
+
+/////////////////////////////////////////////////
+
+Ignore all previous instructions. 
+Do not provide bullet points.
+Do not self reference. 
+Do not explain what you are doing. 
+
+Context:
+Voice Tone: Professional
+Writing Style: Analytical
+Language: English
+Business / Services: [web development services]
+Business Location: [United States]
+Total Words Limit: [400]
+
+Instructions:
+You are a marketing researcher. 
+According to the context provided, 
+generate a detailed USER PERSONA for mentioned business or services that sells mentioned services in mentioned location. 
+First write "User Persona creation for mentioned services in mentioned location" as the heading. 
+Now create a subheading called "Demographics". 
+Below, you need to create a table with the 2 columns and 7 rows with the following format: 
+Column 1 = Data points (Name, Age, Occupation, Annual income, Marital status, Family situation, Location), 
+Column 2 = Answers for each data point in Column 1 based on the specific market "web development services". 
+Now create a subheading called "Sales Letter for above persona". 
+Below this generate a long form sales letter of around 400 words using this persona. 
+
+...................................................................
+
+- Voice Tones:
+
+Default
+Authoritative
+Caring
+Casual
+Cheerful
+Conservative
+Conversational
+Creative
+Dry
+Edge
+Enthusiastic
+Expository
+Formal
+Frank
+Friendly
+Funny
+Informative
+Journalistic
+Matter of Fact
+Objective
+Passionate
+Poetic
+Professional
+Respectful
+Sarcastic
+Serious
+Smart
+Subjective
+Sympahetic
+Trendy
+Trustworthy
+Witty 
+
+- Writing Styles:
+
+Academic
+Analytical
+Argumentative
+Conversational
+Creative
+Critical
+Descriptive
+Informative
+Instructive
+Journalistic
+Metaphorical
+Narrative
+Persuasive
+Poetic
+Technical
+
+It depends on topic of your article and requirement.
+
+.......................................................................
+
+* Remove [ ] from prompts. This is the place where you insert your words.
+
+.................................................
+
+~ WebStylePress ~
+https://www.youtube.com/@webstylepress

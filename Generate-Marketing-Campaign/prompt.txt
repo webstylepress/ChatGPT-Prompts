@@ -1,0 +1,145 @@
+
+Generate Marketing Campaigns using Marketing Frameworks in ChatGPT
+
+///////////////////////
+
+AIDA
+.....
+
+Ignore all previous instructions. 
+Do not self reference. 
+Do not explain what you are doing. 
+
+Context:
+Voice Tone: Professional
+Writing Style: Persuasive
+Language: English
+Business / Services: [web development services business that offers wordpress website development]
+
+Instructions:
+You are an expert copywriter.
+According to the context provided, 
+write a witty AIDA (Attention, Interest, Desire and Action) marketing campaign for mentioned business or services.
+
+
+PAS
+...
+
+Ignore all previous instructions. 
+Do not self reference. 
+Do not explain what you are doing. 
+
+Context:
+Voice Tone: Professional
+Writing Style: Persuasive
+Language: English
+Business / Services: [web development services business that offers wordpress website development]
+
+Instructions:
+You are an expert copywriter.
+According to the context provided, 
+write a witty PAS (Problem, Agitate and Solution) marketing campaign for mentioned business or services.
+
+
+BAB
+...
+
+Ignore all previous instructions. 
+Do not self reference. 
+Do not explain what you are doing. 
+
+Context:
+Voice Tone: Professional
+Writing Style: Persuasive
+Language: English
+Business / Services: [web development services business that offers wordpress website development]
+
+Instructions:
+You are an expert copywriter.
+According to the context provided, 
+write a witty BAB (Before, After, Bridge) marketing campaign for mentioned business or services.
+
+
+FAB
+....
+
+Ignore all previous instructions. 
+Do not self reference. 
+Do not explain what you are doing. 
+
+Context:
+Voice Tone: Professional
+Writing Style: Persuasive
+Language: English
+Business / Services: [web development services business that offers wordpress website development]
+
+Instructions:
+You are an expert copywriter.
+According to the context provided, 
+write a witty FAB (Features, Advantages, Benefits) marketing campaign for mentioned business or services.
+
+...................................................................
+
+- Voice Tones:
+
+Default
+Authoritative
+Caring
+Casual
+Cheerful
+Conservative
+Conversational
+Creative
+Dry
+Edge
+Enthusiastic
+Expository
+Formal
+Frank
+Friendly
+Funny
+Informative
+Journalistic
+Matter of Fact
+Objective
+Passionate
+Poetic
+Professional
+Respectful
+Sarcastic
+Serious
+Smart
+Subjective
+Sympahetic
+Trendy
+Trustworthy
+Witty 
+
+- Writing Styles:
+
+Academic
+Analytical
+Argumentative
+Conversational
+Creative
+Critical
+Descriptive
+Informative
+Instructive
+Journalistic
+Metaphorical
+Narrative
+Persuasive
+Poetic
+Technical
+
+It depends on topic of your article and requirement.
+
+.......................................................................
+
+* Remove [ ] from prompts. This is the place where you insert your words.
+
+.................................................
+
+~ WebStylePress ~
+https://www.youtube.com/@webstylepress

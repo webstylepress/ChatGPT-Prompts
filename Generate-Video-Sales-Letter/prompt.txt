@@ -1,0 +1,97 @@
+
+Generate Video Sales Letter using ChatGPT
+
+/////////////////////////////////////////
+
+Ignore all previous instructions. 
+Do not provide bullet points.
+Do not self reference. 
+Do not explain what you are doing. 
+
+Context:
+Voice Tone: Professional
+Writing Style: Analytical
+Language: English
+Business / Services: [web development services]
+Business Location: [United States]
+Total Words Limit: [600]
+Call to Action: [to Click the subscribe button]
+
+Instructions:
+You are a marketing researcher. 
+According to the context, 
+generate a detailed USER PERSONA for entioned business or services. 
+First write "User Persona creation for mentioned business or services in mentioned location" as the heading. 
+Now create a subheading called "Demographics". 
+Below, create a table with the 2 columns and 7 rows with the following format: 
+Column 1 = Data points (Name, Age, Occupation, Annual income, Marital status, Family situation, Location), 
+Column 2 = Answers for each data point in Column 1 based on the specific market of mentioned business. 
+Now create a subheading called "Video Sales Letter (VSL) for above persona". 
+Below this generate a complete youtube video script in second person of around required words that are mentioned using this persona. 
+In the relevant segment ask the viewer to click the subscribe button or place call to action as mentioned in context area.
+
+...................................................................
+
+- Voice Tones:
+
+Default
+Authoritative
+Caring
+Casual
+Cheerful
+Conservative
+Conversational
+Creative
+Dry
+Edge
+Enthusiastic
+Expository
+Formal
+Frank
+Friendly
+Funny
+Informative
+Journalistic
+Matter of Fact
+Objective
+Passionate
+Poetic
+Professional
+Respectful
+Sarcastic
+Serious
+Smart
+Subjective
+Sympahetic
+Trendy
+Trustworthy
+Witty 
+
+- Writing Styles:
+
+Academic
+Analytical
+Argumentative
+Conversational
+Creative
+Critical
+Descriptive
+Informative
+Instructive
+Journalistic
+Metaphorical
+Narrative
+Persuasive
+Poetic
+Technical
+
+It depends on topic of your article and requirement.
+
+.......................................................................
+
+* Remove [ ] from prompts. This is the place where you insert your words.
+
+.................................................
+
+~ WebStylePress ~
+https://www.youtube.com/@webstylepress
