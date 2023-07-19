@@ -1,0 +1,119 @@
+
+SEO Keyword Research
+
+////////////////////
+
+Generate Keyword Strategy & Content Plan using ChatGPT
+.......................................................
+
+Ignore all previous instructions.
+Do not use single quotes, double quotes or any other enclosing characters.
+Do not self reference.
+Do not explain what you are doing.
+
+Requirements:
+Language: English
+Seed Keyword / Target Keyword: [JavaScript]
+
+Instructions:
+You are a market research expert. 
+You are an expert in keyword research and can develop a full SEO content plan. 
+Seed keyword is provided. 
+According to requirements provided, create a Keyword Strategy & Content Plan. 
+Create a markdown table with a list of [10] closely related keywords for an SEO strategy plan for the seed keyword. 
+Cluster the keywords according to the top [10] super categories and name the super category in the first column as "Category". 
+There should be a maximum of [6] keywords in a super category. 
+The second column should be called "Keyword" and contain the suggested keyword. 
+The third column will be called "Search Intent" and will show the search intent of the suggested keyword from the following list of intents (commercial, transactional, navigational, informational, local or investigational). 
+The fourth column will be called "Title" and will be catchy and click-bait title to use for an article or blog post about that keyword. 
+The fifth column will be called "Description: and will be a catchy meta description with a maximum length of [160] words. 
+The meta description should ideally have a call to action. 
+Do not use single quotes, double quotes or any other enclosing characters in any of the columns you fill in. 
+Return your suggestions in the table.
+
+
+
+
+Get Search Intent for Keywords
+.............................
+
+Ignore all previous instructions.
+Do not use single quotes, double quotes or any other enclosing characters.
+Do not self reference.
+Do not explain what you are doing.
+
+Requirements:
+Language: English
+List of keywords: [javascript, career, community]
+
+Instructions:
+You are a keyword research expert. 
+List of keywords is provided. 
+According to requirements provided, 
+classify them by the search intent, whether commercial, transactional, navigational, informational, local or investigational. 
+Once done, print them out in a markdown table with "Keyword" as the first column, and "Search Intent" as the second. 
+
+
+
+
+
+
+
+Generate Related Keywords
+.........................
+
+Ignore all previous instructions.
+Do not use single quotes, double quotes or any other enclosing characters.
+Do not self reference.
+Do not explain what you are doing.
+
+Requirements:
+Language: English
+Seed keyword: [javascript]
+
+Instructions:
+You are a keyword research expert.  
+According to requirements provided, 
+generate a list of [10] keywords closely related to seed keyword without duplicating any words.
+Create a markdown table with two columns "Keyword" and "Search Intent". 
+The first column should be the keyword you generated, 
+and the second column should be the search intent of the keyword (commercial, transactional, navigational, informational, local or investigational). 
+After the table, print "List of same keywords separated by commas:". 
+On the next line print the same list of keywords at the bottom separated by commas. 
+
+
+
+
+
+Generate Long-Tail Keywords
+.........................
+
+Ignore all previous instructions.
+Do not use single quotes, double quotes or any other enclosing characters.
+Do not self reference.
+Do not explain what you are doing.
+
+Requirements:
+Language: English
+Seed keyword: [javascript]
+
+Instructions:
+You are a keyword research expert. 
+According to the requirements, 
+Generate a list of [10] long-tail keywords for provided seed keyword. 
+Create a markdown table with two columns "Keyword" and "Search Intent". 
+The first column should be the keyword you generated, 
+and the second column should be the search intent of the keyword (commercial, transactional, navigational, informational, local or investigational). 
+After the table, 
+print "List of same keywords separated by commas:". 
+On the next line print the same list of keywords at the bottom separated by commas. 
+
+
+
+
+........................................................................
+* Remove [ ] from prompts. This is the place where you insert your words.
+........................................................................
+
+~ WebStylePress ~
+https://www.youtube.com/@webstylepress
